@@ -1,0 +1,8 @@
+# gitignore
+
+01_tensorflow_sample_code/log
+01_tensorflow_sample_code/MNIST_data
+01_tensorflow_sample_code/00_memo_task.txt
+01_tensorflow_sample_code/00_word_memo.txt
+01_tensorflow_sample_code/sample01_img_mnist.py
+
